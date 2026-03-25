@@ -9,3 +9,16 @@ A Telegram bot that:
 ## Setup
 
 ### 1. Clone repo
+
+### 2. Install dependencies
+
+### 3. Install FFmpeg
+https://ffmpeg.org/download.html
+
+### 4. Add your bot token
+
+### 5. Run bot
+
+## Notes
+- Use a transparent PNG for watermark
+- Works best with public reels
